@@ -1,0 +1,123 @@
+#logo {
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.indx {
+    color: #f3e16b;
+}
+
+.icons {
+    width: 30px;
+}
+
+ul,header {
+    display: flex;
+}
+
+a:link {
+     text-decoration: none;
+}
+
+
+.ul {
+    list-style: none;
+    gap: 30px;
+}
+
+header {
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 25px;
+    margin: 30px 30px;
+}
+
+footer {
+    font-weight: bold;
+    font-size: medium ;
+}
+footer  {
+    background-color: #bedce3;
+}
+
+.project-images {
+    width: 400px;
+    margin-left: 12%;
+}
+
+.title {
+    font-size: large;
+    font-style: italic;
+    margin: 30px 0 35px 0;
+}
+
+.article {
+    font-style: normal;
+    color: #1e517b;
+    margin-left: 12%;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.justify-space-center {
+    justify-content: center;
+}
+
+#contact {
+    color: #f9b42d;
+    font-size: large;
+    font-weight: bold;
+    padding-top: 25px;
+}
+#cp {
+    color: #963694;
+    font-size: large;
+    
+}
+
+.contact-section {
+
+    margin-left: 12%;
+}
+
+form div {
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #f15a22;
+}
+#message_ {
+    font-style: italic;
+    color: #f22613;
+    background-color: #f3e16b;
+    margin-right: 89%;
+}
+
+.about_me {
+    color: #cf000f;
+    font-weight: bolder;
+    margin-left: 25px;
+}
+
+.selector {
+    color:#392e4a;
+    margin-left: 15px;
+    font-weight: bold;
+    }
+
+    .my_photos {
+        width: 400px;
+        margin-left: 8%;
+        padding-bottom: 5px;
+    }
+
+    .div_photos {
+        display: flex;
+        flex-wrap: wrap;
+ }
+
+ .justify-space-between {
+    justify-content: center;
+ }
